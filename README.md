@@ -23,3 +23,10 @@ The exercise encourages building something personally useful. I created a Quicks
 
 This tool is especially useful for quickly onboarding yourself or others to unfamiliar technologies.
 
+
+## Results:
+### Brochure Generator Script Output
+![Brochure Output](brochureOutput.png)
+
+### Quickstart Generator Script Output
+![Quickstart Output](QuickstartOutput.png)
